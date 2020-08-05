@@ -1,4 +1,4 @@
-Libraryに依存しない軽量Date-Picker「flatpickr」
+Libraryに依存しない軽量Date-Picker「flatpickr」の備忘録
 ===
 
 flatpickrとは？
